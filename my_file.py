@@ -8,3 +8,7 @@
 print('Hi Git')
 
 # Hi for pull
+
+
+def hi_there():
+    print("hi")
